@@ -7,7 +7,7 @@ function AboutTawasil() {
         Background
       </p>
       <p className="text-base text-left md:text-center text-gray-600 leading-relaxed mt-4">
-      Abukhair Tawasil is a BSIT student from Western Mindanao State University.
+      Hi I'm Abukhair Tawasil a BSIT student from Western Mindanao State University.
       I’m a good communicator, a collaborator, flexible, patient enough on dealing with things around me, knows how to manage my time, a problem solver, an active listener and i have a positive attitude.
       My hobbies and interests in life are watching movies, reading poetries, playing video games with my siblings, playing basketball and table tennis.
       Also I’m good at Speed typing, operating machine, and also good at troubleshooting.
